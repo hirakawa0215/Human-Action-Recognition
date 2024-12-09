@@ -669,12 +669,6 @@ I've also published a second paper, with contributors, regarding a [second itera
 
 ## Extra links
 
-### Connect with me
-
-- [GitHub](https://github.com/guillaume-chevalier/)
-- [LinkedIn](https://ca.linkedin.com/in/chevalierg)
-- [YouTube](https://www.youtube.com/c/GuillaumeChevalier)
-
 ### Liked this project? Did it help you? Leave a [star](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition/stargazers), [fork](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition/network/members) and share the love!
 
 This activity recognition project has been seen in:
